@@ -4,7 +4,7 @@ function PreviousMessage({ element }) {
 
     return (
         <div className="container">
-            <div className="card">
+            <div className="card prev-msg-card">
 
                 <div className="prev-msg-header">
                     <div className='bold'>{element.tel}</div>

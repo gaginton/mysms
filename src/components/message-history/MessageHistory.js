@@ -38,6 +38,12 @@ function MessageHistory() {
                     <PreviousMessage
                         element={elementEx2}
                     />
+                    <PreviousMessage
+                        element={elementEx2}
+                    />
+                    <PreviousMessage
+                        element={elementEx2}
+                    />
                 </div>
             </div>
         </div>
